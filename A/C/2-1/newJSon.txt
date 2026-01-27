@@ -1,0 +1,94 @@
+const fs = require('fs');
+const path = require('path');
+
+// Base directory where the images are stored
+const baseDir = './A';  // Path to your A folder
+
+// Function to read all SVG files in a directory and return their filenames (without extensions)
+function getImageFiles(dirPath) {
+  return fs.readdirSync(dirPath)
+    .filter(file => path.extname(file) === '.svg')  // Only .svg files
+    .map(file => path.basename(file, '.svg'));  // Remove the .svg extension
+}
+
+// Function to create the JSON structure
+function createWatchConfigJson() {
+  const config = {
+    St: [], // Straps
+      1: [], // Straps for Case 1 for 36 n 39
+      2a: []  // Straps for Case 2 for 36
+      2b: [], // Straps for Case 2 for 39
+      3: []  // Straps for Case 3 
+    C: [],  // Cases
+      1: [], // Case 1 for 36 n 39
+      2a: []  // Case 2 for 36
+      2b: [], // Case 2 for 39
+      3: []  // Case 3
+    B: {
+      N: [], // Normal Bezels
+      G: []  // GMT Bezels
+    },
+    D: {    // Dials
+      P: [], // P Dials
+      D: [], // D Dials
+      G: [], // G Dials
+      M: [], // M Dials
+      F: []  // F Dials
+    },
+    Gh: [],  // GMT Hands
+    Ch: [],  // Combo Hands
+    Sh: [],  // Second Hands
+    Dt: []   // Date Hands
+  };
+
+  // Define paths for different categories based on your folder structure
+  const straps1Path = path.join(baseDir, 'St', '1');
+  const straps2aPath = path.join(baseDir, 'St', '2a');
+  const straps2bPath = path.join(baseDir, 'St', '2b');
+  const straps3Path = path.join(baseDir, 'St', '3');
+  const casesPath = path.join(baseDir, 'C');
+  const cases1Path = path.join(baseDir, 'C', '1');
+  const cases2aPath = path.join(baseDir, 'C', '2a');
+  const cases2bPath = path.join(baseDir, 'C', '2b');
+  const cases3Path = path.join(baseDir, 'C', '3');
+  const bezelsNormalPath = path.join(baseDir, 'B', 'N');
+  const bezelsGmtPath = path.join(baseDir, 'B', 'G');
+  const dialsPPath = path.join(baseDir, 'D', 'P');
+  const dialsDPath = path.join(baseDir, 'D', 'D');
+  const dialsGPath = path.join(baseDir, 'D', 'G');
+  const dialsMPath = path.join(baseDir, 'D', 'M');
+  const dialsFPath = path.join(baseDir, 'D', 'F');
+  const handsGhPath = path.join(baseDir, 'Gh');
+  const handsChPath = path.join(baseDir, 'Ch');
+  const handsShPath = path.join(baseDir, 'Sh');
+  const handsDtPath = path.join(baseDir, 'Dt');
+
+  // Populate the config object with image filenames (no extensions)
+  config.St.1 = getImageFiles(straps1Path);
+  config.St.2a = getImageFiles(straps2aPath);
+  config.St.2b = getImageFiles(straps2bPath);
+  config.St.3 = getImageFiles(straps3Path);
+  config.C.1 = getImageFiles(cases1Path);
+  config.C.2a = getImageFiles(cases2bPath);
+  config.C.2b = getImageFiles(cases2bPath);
+  config.C.3 = getImageFiles(cases3Path);
+  config.B.N = getImageFiles(bezelsNormalPath);
+  config.B.G = getImageFiles(bezelsGmtPath);
+  config.D.P = getImageFiles(dialsPPath);
+  config.D.D = getImageFiles(dialsDPath);
+  config.D.G = getImageFiles(dialsGPath);
+  config.D.M = getImageFiles(dialsMPath);
+  config.D.F = getImageFiles(dialsFPath);
+  config.Gh = getImageFiles(handsGhPath);
+  config.Ch = getImageFiles(handsChPath);
+  config.Sh = getImageFiles(handsShPath);
+  config.Dt = getImageFiles(handsDtPath);
+
+  // Write the JSON file to the current directory
+  const jsonFilePath = './watch-config.json';  // Path to save the generated JSON file
+  fs.writeFileSync(jsonFilePath, JSON.stringify(config, null, 2), 'utf-8');
+  console.log('JSON file created successfully!');
+}
+
+// Run the function to generate the JSON
+createWatchConfigJson();
