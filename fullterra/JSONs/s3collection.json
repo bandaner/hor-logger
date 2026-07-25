@@ -1,0 +1,338 @@
+[
+  {
+    "id": "C36-1",
+    "family": "Classic",
+    "size": 36,
+    "timezone": 1,
+    "date": true,
+
+    "title": "Classic 36",
+    "subtitle": "1 Time Zone • Date",
+
+    "image": "https://yourcdn.com/images/C36-1.webp",
+
+    "link": "#C36-1"
+  },
+
+  {
+    "id": "C36-2",
+    "family": "Classic",
+    "size": 36,
+    "timezone": 1,
+    "date": false,
+
+    "title": "Classic 36",
+    "subtitle": "1 Time Zone • No Date",
+
+    "image": "https://yourcdn.com/images/C36-2.webp",
+
+    "link": "#C36-2"
+  }
+
+  {
+    "id": "C36-3",
+    "family": "Classic",
+    "size": 36,
+    "timezone": 2,
+    "date": true,
+
+    "title": "Classic 36",
+    "subtitle": "2 Time Zone • Date",
+
+    "image": "https://yourcdn.com/images/C36-1.webp",
+
+    "link": "#C36-3"
+  },
+  {
+    "id": "C36-4",
+    "family": "Classic",
+    "size": 36,
+    "timezone": 2,
+    "date": false,
+
+    "title": "Classic 36",
+    "subtitle": "2 Time Zone • No Date",
+
+    "image": "https://yourcdn.com/images/C36-1.webp",
+
+    "link": "#C36-4"
+  },
+
+
+
+
+
+
+
+
+  {
+    "id": "C39-1",
+    "family": "Classic",
+    "size": 39,
+    "timezone": 1,
+    "date": true,
+
+    "title": "Classic 39",
+    "subtitle": "1 Time Zone • Date",
+
+    "image": "https://yourcdn.com/images/C36-1.webp",
+
+    "link": "#C39-1"
+  },
+
+  {
+    "id": "C39-2",
+    "family": "Classic",
+    "size": 39,
+    "timezone": 1,
+    "date": false,
+
+    "title": "Classic 39",
+    "subtitle": "1 Time Zone • No Date",
+
+    "image": "https://yourcdn.com/images/C36-2.webp",
+
+    "link": "#C39-2"
+  }
+
+  {
+    "id": "C39-3",
+    "family": "Classic",
+    "size": 39,
+    "timezone": 2,
+    "date": true,
+
+    "title": "Classic 39",
+    "subtitle": "2 Time Zone • Date",
+
+    "image": "https://yourcdn.com/images/C36-1.webp",
+
+    "link": "#C39-3"
+  },
+  {
+    "id": "C39-4",
+    "family": "Classic",
+    "size": 39,
+    "timezone": 2,
+    "date": false,
+
+    "title": "Classic 39",
+    "subtitle": "2 Time Zone • No Date",
+
+    "image": "https://yourcdn.com/images/C36-1.webp",
+
+    "link": "#C39-4"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+    "id": "M36-1",
+    "family": "Modern",
+    "size": 36,
+    "timezone": 1,
+    "date": true,
+
+    "title": "Modern 36",
+    "subtitle": "1 Time Zone • Date",
+
+    "image": "https://yourcdn.com/images/C36-1.webp",
+
+    "link": "#M36-1"
+  },
+
+  {
+    "id": "M36-2",
+    "family": "Modern",
+    "size": 36,
+    "timezone": 1,
+    "date": false,
+
+    "title": "Modern 36",
+    "subtitle": "1 Time Zone • No Date",
+
+    "image": "https://yourcdn.com/images/C36-2.webp",
+
+    "link": "#M36-2"
+  }
+
+  {
+    "id": "M36-3",
+    "family": "Modern",
+    "size": 36,
+    "timezone": 2,
+    "date": true,
+
+    "title": "Modern 36",
+    "subtitle": "2 Time Zone • Date",
+
+    "image": "https://yourcdn.com/images/C36-1.webp",
+
+    "link": "#M36-3"
+  },
+  {
+    "id": "M36-4",
+    "family": "Modern",
+    "size": 36,
+    "timezone": 2,
+    "date": false,
+
+    "title": "Modern 36",
+    "subtitle": "2 Time Zone • No Date",
+
+    "image": "https://yourcdn.com/images/C36-1.webp",
+
+    "link": "#M36-4"
+  },
+
+
+
+
+
+
+
+
+  {
+    "id": "M39-1",
+    "family": "Modern",
+    "size": 39,
+    "timezone": 1,
+    "date": true,
+
+    "title": "Modern 39",
+    "subtitle": "1 Time Zone • Date",
+
+    "image": "https://yourcdn.com/images/C36-1.webp",
+
+    "link": "#M39-1"
+  },
+
+  {
+    "id": "M39-2",
+    "family": "Modern",
+    "size": 39,
+    "timezone": 1,
+    "date": false,
+
+    "title": "Modern 39",
+    "subtitle": "1 Time Zone • No Date",
+
+    "image": "https://yourcdn.com/images/C36-2.webp",
+
+    "link": "#M39-2"
+  }
+
+  {
+    "id": "M39-3",
+    "family": "Modern",
+    "size": 39,
+    "timezone": 2,
+    "date": true,
+
+    "title": "Modern 39",
+    "subtitle": "2 Time Zone • Date",
+
+    "image": "https://yourcdn.com/images/C36-1.webp",
+
+    "link": "#M39-3"
+  },
+  {
+    "id": "M39-4",
+    "family": "Modern",
+    "size": 39,
+    "timezone": 2,
+    "date": false,
+
+    "title": "Modern 39",
+    "subtitle": "2 Time Zone • No Date",
+
+    "image": "https://yourcdn.com/images/C36-1.webp",
+
+    "link": "#M39-4"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "id": "D40-1",
+    "family": "Diver",
+    "size": 40,
+    "timezone": 1,
+    "date": true,
+
+    "title": "Diver 40",
+    "subtitle": "1 Time Zone • Date",
+
+    "image": "https://yourcdn.com/images/C36-1.webp",
+
+    "link": "#D40-1"
+  },
+
+  {
+    "id": "D40-2",
+    "family": "Diver",
+    "size": 40,
+    "timezone": 1,
+    "date": false,
+
+    "title": "Diver 40",
+    "subtitle": "1 Time Zone • No Date",
+
+    "image": "https://yourcdn.com/images/C36-2.webp",
+
+    "link": "#D40-2"
+  }
+
+  {
+    "id": "D40-3",
+    "family": "Diver",
+    "size": 40,
+    "timezone": 2,
+    "date": true,
+
+    "title": "Diver 40",
+    "subtitle": "2 Time Zone • Date",
+
+    "image": "https://yourcdn.com/images/C36-1.webp",
+
+    "link": "#D40-3"
+  },
+  {
+    "id": "D40-4",
+    "family": "Diver",
+    "size": 40,
+    "timezone": 2,
+    "date": false,
+
+    "title": "Diver 40",
+    "subtitle": "2 Time Zone • No Date",
+
+    "image": "https://yourcdn.com/images/C36-1.webp",
+
+    "link": "#D40-4"
+  },
+
+
+]
