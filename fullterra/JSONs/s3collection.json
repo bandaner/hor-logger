@@ -9,7 +9,7 @@
     "title": "Classic 36",
     "subtitle": "1 Time Zone • Date",
 
-    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Classic/C36-1.png",
+    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Classic/c36-1.png",
 
     "link": "#C36-1"
   },
@@ -24,7 +24,7 @@
     "title": "Classic 36",
     "subtitle": "1 Time Zone • No Date",
 
-    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Classic/C36-2.png",
+    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Classic/c36-2.png",
 
     "link": "#C36-2"
   },
@@ -39,7 +39,7 @@
     "title": "Classic 36",
     "subtitle": "2 Time Zone • Date",
 
-    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Classic/C36-3.png",
+    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Classic/c36-3.png",
 
     "link": "#C36-3"
   },
@@ -53,7 +53,7 @@
     "title": "Classic 36",
     "subtitle": "2 Time Zone • No Date",
 
-    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Classic/C36-4.png",
+    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Classic/c36-4.png",
 
     "link": "#C36-4"
   },
@@ -67,7 +67,7 @@
     "title": "Classic 39",
     "subtitle": "1 Time Zone • Date",
 
-    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Classic/C39-1.png",
+    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Classic/c39-1.png",
 
     "link": "#C39-1"
   },
@@ -82,7 +82,7 @@
     "title": "Classic 39",
     "subtitle": "1 Time Zone • No Date",
 
-    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Classic/C39-2.png",
+    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Classic/c39-2.png",
 
     "link": "#C39-2"
   },
@@ -97,7 +97,7 @@
     "title": "Classic 39",
     "subtitle": "2 Time Zone • Date",
 
-    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Classic/C39-3.png",
+    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Classic/c39-3.png",
 
     "link": "#C39-3"
   },
@@ -111,7 +111,7 @@
     "title": "Classic 39",
     "subtitle": "2 Time Zone • No Date",
 
-    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Classic/C39-4.png",
+    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Classic/c39-4.png",
 
     "link": "#C39-4"
   },
@@ -125,7 +125,7 @@
     "title": "Modern 36",
     "subtitle": "1 Time Zone • Date",
 
-    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Modern/M36-1.png",
+    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Modern/m36-1.png",
 
     "link": "#M36-1"
   },
@@ -140,7 +140,7 @@
     "title": "Modern 36",
     "subtitle": "1 Time Zone • No Date",
 
-    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Modern/M36-2.png",
+    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Modern/m36-2.png",
 
     "link": "#M36-2"
   },
@@ -155,7 +155,7 @@
     "title": "Modern 36",
     "subtitle": "2 Time Zone • Date",
 
-    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Modern/M36-3.png",
+    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Modern/m36-3.png",
 
     "link": "#M36-3"
   },
@@ -169,7 +169,7 @@
     "title": "Modern 36",
     "subtitle": "2 Time Zone • No Date",
 
-    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Modern/M36-4.png",
+    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Modern/m36-4.png",
 
     "link": "#M36-4"
   },
@@ -183,7 +183,7 @@
     "title": "Modern 39",
     "subtitle": "1 Time Zone • Date",
 
-    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Modern/M39-1.png",
+    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Modern/m39-1.png",
 
     "link": "#M39-1"
   },
@@ -198,7 +198,7 @@
     "title": "Modern 39",
     "subtitle": "1 Time Zone • No Date",
 
-    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Modern/M39-2.png",
+    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Modern/m39-2.png",
 
     "link": "#M39-2"
   },
@@ -213,7 +213,7 @@
     "title": "Modern 39",
     "subtitle": "2 Time Zone • Date",
 
-    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Modern/M39-3.png",
+    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Modern/m39-3.png",
 
     "link": "#M39-3"
   },
@@ -227,7 +227,7 @@
     "title": "Modern 39",
     "subtitle": "2 Time Zone • No Date",
 
-    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Modern/M39-4.png",
+    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Modern/m39-4.png",
 
     "link": "#M39-4"
   },
@@ -241,7 +241,7 @@
     "title": "Diver 40",
     "subtitle": "1 Time Zone • Date",
 
-    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Diver/D40-1.png",
+    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Diver/d40-1.png",
 
     "link": "#D40-1"
   },
@@ -256,7 +256,7 @@
     "title": "Diver 40",
     "subtitle": "1 Time Zone • No Date",
 
-    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Diver/D40-2.png",
+    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Diver/d40-2.png",
 
     "link": "#D40-2"
   },
@@ -271,7 +271,7 @@
     "title": "Diver 40",
     "subtitle": "2 Time Zone • Date",
 
-    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Diver/D40-3.png",
+    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Diver/d40-3.png",
 
     "link": "#D40-3"
   },
@@ -285,7 +285,7 @@
     "title": "Diver 40",
     "subtitle": "2 Time Zone • No Date",
 
-    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Diver/D40-4.png",
+    "image": "https://raw.githubusercontent.com/bandaner/hor-logger/main/fullterra/watches/Diver/d40-4.png",
 
     "link": "#D40-4"
   }
